@@ -1,5 +1,7 @@
 # blitmap2json
 
+Blitmap data converter which convert bytes data into JSON contains colors and pixel-color mapping data. 
+
 ## How to use 
 
 1. Create a `.env` file with `.env.example` file
